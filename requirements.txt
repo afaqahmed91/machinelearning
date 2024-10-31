@@ -1,3 +1,8 @@
+python==3.10.*
 pandas
 seaborn
 scikit-learn
+yellowbrick
+feature-engine
+xgboost
+hyperopt
